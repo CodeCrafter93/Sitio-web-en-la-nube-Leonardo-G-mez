@@ -1,6 +1,7 @@
 {
   "name": "sitio-web-en-la-nube",
   "private": true,
+  "engines": { "node": ">=18" },
   "dependencies": {
     "express": "^4.19.2"
   },
